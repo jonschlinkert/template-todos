@@ -1,4 +1,4 @@
-# template-todos [![NPM version](https://badge.fury.io/js/template-todos.svg)](http://badge.fury.io/js/template-todos)
+# template-todos [![NPM version](https://badge.fury.io/js/template-todos.svg)](http://badge.fury.io/js/template-todos)  [![Build Status](https://travis-ci.org/jonschlinkert/template-todos.svg)](https://travis-ci.org/jonschlinkert/template-todos)
 
 > Middleware for Template, for matching todos in a string.
 
