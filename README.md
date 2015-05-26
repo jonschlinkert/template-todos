@@ -1,6 +1,6 @@
 # template-todos [![NPM version](https://badge.fury.io/js/template-todos.svg)](http://badge.fury.io/js/template-todos)
 
-> Middlware for Template, for matching todos in a string.
+> Middleware for Template, for matching todos in a string.
 
 ## Install
 
